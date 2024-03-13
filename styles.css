@@ -1,0 +1,38 @@
+body{
+    background-color: #DCDCDC;
+}
+
+
+.code{
+    font-family: monospace;
+    background-color: white;
+    letter-spacing: 0px;
+}
+h1,h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+h2{
+    color: blueviolet;
+}
+
+
+table{
+    position: relative;
+    left: 380px;
+    border: 2px solid blueviolet;
+    width: 650px;
+    
+}
+
+th{
+    font-weight: bold;
+    background-color: #DDA0DD;
+    border-bottom: 1px solid blueviolet;
+}
+
+td{
+    border-bottom: 1px solid blueviolet;
+}
